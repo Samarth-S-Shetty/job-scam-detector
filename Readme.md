@@ -22,7 +22,11 @@ Summary Node — LLM writes final report + recommendation
         ↓
 FastAPI → HTML/CSS Frontend
 ```
+## Live Demo
+🌐 [https://job-scam-detector-j48h.onrender.com](https://job-scam-detector-j48h.onrender.com)
 
+## Screenshot
+![ScamCheck UI](screenshots/landing.png)
 ## Scam Score
 - **0-30** ✅ Looks Legitimate
 - **31-60** ⚠️ Proceed with Caution
